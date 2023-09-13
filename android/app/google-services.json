@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "797418934455",
+    "project_id": "citazioni-libri",
+    "storage_bucket": "citazioni-libri.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797418934455:android:bdb3e152b71989561c3d32",
+        "android_client_info": {
+          "package_name": "com.example.cite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797418934455-gqfacd61c32hl08j6i9a0tb1nvqh788b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsCY3GqYXgst_V2im5_Ystr5SplAApVzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797418934455-gqfacd61c32hl08j6i9a0tb1nvqh788b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
