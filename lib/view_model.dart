@@ -100,4 +100,15 @@ class MyViewModel{
     }
   }
 
+  resetParameters(){
+    _instance = null;
+    uidL ="";
+    db = null;
+    books = null;
+    booksF = null;
+    userData= null;
+    firstTime = true;
+    firstTime2 = true;
+  }
+
 }

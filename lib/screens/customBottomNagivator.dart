@@ -74,6 +74,7 @@ class _CustomBottomNavigationBarState extends State<CustomBottomNavigationBar> {
                 //così da togliere tutti i dati salvati in un app android
                 clearSharedPreferences();
                 await _auth.signOut();
+                MyViewModel.instance.resetParameters();
               },
               icon: Icon(Icons.email_outlined),
             label: Text("sign-out"),
